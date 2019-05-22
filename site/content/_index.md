@@ -7,6 +7,8 @@ blurb:
   text: >-
     Because I wanted to test out Hugo, static site generation, and maintenance
     via iOS.
+
+    OLIVER IS NOW TESTING MAY 22 AUTO UPDATE.
 intro:
   heading: What we offer
   text: >-
